@@ -1,3 +1,5 @@
 This is my commit for develop branch okay
 
 This is my commit for master branch okay
+
+This is added for bugfix branch ok
