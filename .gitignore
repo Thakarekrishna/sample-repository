@@ -1,0 +1,9 @@
+second.txt
+fourth.txt
+error.log
+error - Copy (10).log
+*.log
+/dir/
+static/dir
+
+sdk
